@@ -2,6 +2,8 @@
 
 <p>📊 My CV can be found <a href=https://github.com/Rmorbey/Russell-CV>here</a>.
 
+<p>🔄 I’m a career switcher who used to work in Apple Retail.</p>
+
 <p>📚 Learning to code using Ruby and JavaScript at Makers Academy (April '22).</p>
 
 <p>💻 Love learning new languages.</p>
