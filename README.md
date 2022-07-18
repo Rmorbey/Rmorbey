@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Russell
 
-<p>📊 My CV can be found <a href= >here</a>.
+<p>📊 My CV can be found <a href=https://github.com/Rmorbey/Russell-CV>here</a>.
 
 <p>📚 Learning to code using Ruby and JavaScript at Makers Academy (April '22).</p>
 
@@ -14,7 +14,7 @@
 
 <p>📫 Reach me through either email or phone (all can be provided). <br> 👆 Alternatively, make a pull request on one of my repositories to get in touch.</p>
 
-<p>🧠 My interests consist of an array of board, video and table-top games, as well as bouldering and table tennis. I also like to read sci-fy and fantasy novels, I'm eagrly awaiting Patrick Rothfuss' highly anticipated "The Doors of stone." as well as Pierce Brown's final book in the Red Rising Saga "Lightbringer". </p>
+<p>🧠 My interests consist of an array of board, video and table-top games, as well as bouldering and table tennis. I also like to read sci-fy and fantasy novels, I'm eagrly awaiting Patrick Rothfuss' highly anticipated "The Doors of Stone." as well as Pierce Brown's final book in the Red Rising Saga "Lightbringer". </p>
 
 #### Languages and Tools:
 
