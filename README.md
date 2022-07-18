@@ -2,7 +2,7 @@
 
 <p>📊 My CV can be found <a href=https://github.com/Rmorbey/Russell-CV>here</a>.
 
-<p>🔄 I’m a career switcher who used to work in Apple Retail.</p>
+<p>🔄 I’m a career switcher who used to work as a Special Needs Teaching Assistant supporting vulnerable teenagers and young adults.</p>
 
 <p>📚 Learning to code using Ruby and JavaScript at Makers Academy (April '22).</p>
 
