@@ -16,7 +16,7 @@
 
 <p>📫 Reach me through either email or phone (all can be provided). <br> 👆 Alternatively, make a pull request on one of my repositories to get in touch.</p>
 
-<p>🧠 My interests consist of an array of board, video and table-top games, as well as bouldering and table tennis. I also like to read sci-fy and fantasy novels, I'm eagerly awaiting Patrick Rothfuss' highly anticipated "The Doors of Stone." as well as Pierce Brown's final book in the Red Rising Saga "Lightbringer". </p>
+<p>🧠 My interests consist of an array of board, video and table-top games, as well as bouldering and table tennis. I like to read sci-fy and fantasy novels, I'm eagerly awaiting Patrick Rothfuss' highly anticipated "The Doors of Stone." as well as Pierce Brown's final books in the Red Rising Saga "Lightbringer" and secret 7th book, "Red God". </p>
 
 #### Languages and Tools:
 
