@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Russell
 
-<p>📊 My CV can be found <a href=https://github.com/Rmorbey/Russell-CV>here</a>.
+<p>📊 My personal portfolio website can be found <a href=https://www.russellmorbey.co.uk/>here</a> where you can keep up to date with what I'm currently working on, as well as find my CV.
 
 <p>🔄 I’m a career switcher who used to work as a Special Needs Teaching Assistant supporting vulnerable teenagers and young adults.</p>
 
